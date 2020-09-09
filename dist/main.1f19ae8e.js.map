@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["div","dom","create","console","log"],"mappings":"AAAA;AACA,IAAIA,GAAG,GAAGC,GAAG,CAACC,MAAJ,CAAW,MAAX,CAAV;AACAC,OAAO,CAACC,GAAR,CAAYJ,GAAZ","file":"main.1f19ae8e.js","sourceRoot":"..","sourcesContent":["// document.createElement('div')\r\nlet div = dom.create(\"<li>\")\r\nconsole.log(div);"]}
